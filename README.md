@@ -1,7 +1,7 @@
 # OtakuScape
 
 An Android wallpaper application that provides a curated collection of anime-themed wallpapers from the NekosAPI v4.
-https://github.com/Ankitgujare/Otakuspace-Wallpaper-Application/blob/a4411f216d91ac3db3947731106b3145ed76468f/five.jpeg
+
 
 ## Features
 
@@ -120,3 +120,9 @@ This is a demonstration project. Feel free to fork and modify as needed.
 
 ## License
 This project is for educational purposes only.
+
+
+
+
+
+https://github.com/Ankitgujare/Otakuspace-Wallpaper-Application/blob/a4411f216d91ac3db3947731106b3145ed76468f/five.jpeg
